@@ -214,6 +214,6 @@ contract MintableToken is StandardToken, Ownable {
 
 contract RapidsToken is MintableToken {
     string public constant name = "Rapids";
-    string public constant symbol = "RAPIDS";
+    string public constant symbol = "RPD";
     uint8 public constant decimals = 18;
 }
